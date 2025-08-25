@@ -1,10 +1,10 @@
 # 🔎 Algoritmos de Búsqueda
 
 ## 1. Linear Search
-📌 Recorres un arreglo elemento por elemento hasta encontrar lo que buscas.  
-🛠️ `for`, `if`, comparación `===`.  
-🎯 Lógica secuencial, iteración.  
-🚀 Variante: buscar el índice de todos los elementos que coincidan, no solo el primero.  
+- [x] 📌 Recorres un arreglo elemento por elemento hasta encontrar lo que buscas.  
+- [x] 🛠️ `for`, `if`, comparación `===`.  
+- [x] 🎯 Lógica secuencial, iteración.  
+- [x] 🚀 Variante: buscar el índice de todos los elementos que coincidan, no solo el primero.  
 
 ## 2. Binary Search
 📌 Divide el arreglo a la mitad repetidamente para buscar un valor (requiere arreglo ordenado).  
