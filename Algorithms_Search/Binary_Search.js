@@ -18,7 +18,7 @@ const rl = readline.createInterface({
 
 rl.question('Dame un arreglo (ordenado del menor a mayor): ', (arr) => {
   rl.question('Dame un numero para buscar: ', (num) => {
-    // Convertir el arreglo de
+    // Convertir el arreglo a numeros
     const arrray_numbers = arr.split(',').map((nb) => Number(nb.trim()));
     const search = Number(num);
     const end = arrray_numbers.length - 1;
